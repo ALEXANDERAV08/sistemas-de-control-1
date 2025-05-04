@@ -115,8 +115,11 @@ grid on
 📚 **1. Ejercicio: analice el siguiente sistema.**
 
 $$G(s) = \frac{3}{s+4}$$
+
 $$G(s) = \frac{Kp\frac{3}{s+4}}{1+Kp\frac{3}{s+4}}$$ 
+
 $$G(s) = \frac{Kp}{s+4+Kp}$$
-como resultado se tiene:
+
+**como resultado se tiene:**
 
 $$G(s) = \frac{Kp}{s+4+Kp}$$
